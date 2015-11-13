@@ -1,0 +1,23 @@
+name: Ben Stockdale
+favicon: null
+layout_spectrum: 0.9681078854482621
+typography_spectrum: 0.8401153192389756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7489325329661369
+  lightness: 0.9210093587171286
+  saturation: 0.151271688984707
+  rhythmicContrast: 0.819451819639653
+purpose: []
